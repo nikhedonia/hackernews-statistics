@@ -1,0 +1,15 @@
+{
+  "name": "hackernews",
+  "version": "1.0.0",
+  "description": "gather statistical data from hn",
+  "main": "index.js",
+  "dependencies": {
+    "hackernews-api": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaetano Checinski",
+  "license": "ISC"
+}
